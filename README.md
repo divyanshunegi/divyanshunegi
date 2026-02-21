@@ -96,17 +96,17 @@ If it’s easy and viral but shallow — I’m not interested.
 
 ## 🛠️ Some Things I’ve Built (Post-Job Era)
 
-1. **posthandle.com** – Create viral videos to promote products  
-2. **autoaireels.com** – AI-generated short films & stories  
-3. **aivfx** – AI transitions for content creators  
-4. **aishot.in** – AI headshots  
-5. **picksfix.app** – Restore and modernize old memories  
-6. **clawken.com** – macOS manager for OpenClaw instances  
-7. **divyanshunegi.com** – Personal website  
-8. **profitgpt.app** – AI-powered trading companion (iOS)  
-9. **telepromptfree.com** – Free teleprompter (web + mobile)  
-10. **BridgeAI Coach** – AI coaches for personal growth  
-11. **Aisidekik.com** – Backend infra for AI workflows, credit systems & security  
+- 🌍 [posthandle.com](https://posthandle.com) – Create viral videos to promote products  
+- 🌍 [autoaireels.com](https://autoaireels.com) – AI-generated short films & stories  
+- 📱 [aivfx](https://apps.apple.com/sn/developer/divyanshu-negi/id1476865228) – AI transitions for content creators  
+- 🌍 [aishot.in](https://aishot.in) – AI headshots  
+- 🌍 [picksfix.app](https://picksfix.app) – Restore and modernize old memories  
+- 🌍 [clawken.com](https://clawken.com) – macOS manager for OpenClaw instances  
+- 🌍 [divyanshunegi.com](https://divyanshunegi.com) – Personal website  
+- 🌍 [profitgpt.app](https://profitgpt.app) – AI-powered trading companion (iOS)  
+- 🌍 [telepromptfree.com](https://telepromptfree.com) – Free teleprompter (web + mobile)  
+- 📱 [BridgeAI Coach](https://apps.apple.com/sn/developer/divyanshu-negi/id1476865228) – AI coaches for personal growth  
+- 🌍 [Aisidekik.com](https://aisidekik.com) – Backend infra for AI workflows, credit systems & security  
 
 And we’re just getting started.
 
